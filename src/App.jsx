@@ -49,7 +49,7 @@ export default function App() {
           <div className="card">
             <h1 className="title">Tatiana Scott</h1>
             <p className="blurb">
-              Software Engineer in NYC, building code and connections. Not currently looking for work, but always happy to chat.
+              I'm a NYC-based software developer with a background in forensic science. In my current role, I build and support applications, explore the growing world of AI, and keep a close eye on cybersecurity. Outside of tech, I stay creative through crocheting, sewing, and tinkering with many other projects that keep my hands and mind busy. My own experiments keep me learning, but I'm always open to a chat, a coffee, or a weird idea worth exploring. Feel free to reach out.
             </p>
             <button className="cta" onClick={scrollToContact}>Contact Me</button>
           </div>
